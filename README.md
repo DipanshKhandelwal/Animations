@@ -16,4 +16,4 @@ Types of animations in this project :
 
 ## Screenshots
 
-![Screenshot01](screenshot/Screenshot_1.png)
+![Screenshot_1](screenshot/Screenshot_1.png=100x100)
