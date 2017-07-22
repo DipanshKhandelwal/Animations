@@ -15,5 +15,4 @@ Types of animations in this project :
 * Slide Effect
 
 ## Screenshots
-
-![Screenshot_1](screenshot/Screenshot_1.png=100x100)
+<img src="screenshot/Screenshot_1.png" width="300">
