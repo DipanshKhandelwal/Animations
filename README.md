@@ -13,3 +13,7 @@ Types of animations in this project :
 * Straight Movement
 * Zoom Effect
 * Slide Effect
+
+## Screenshots
+
+![Screenshot01](screenshot/Screenshot_1.png)
