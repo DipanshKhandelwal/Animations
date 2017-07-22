@@ -18,7 +18,7 @@ Types of animations in this project :
 <img src="screenshot/Screenshot_1.png" width="300">
 
 ## How to launch the project
-1. Download **[Android Studio](https://developer.android.com/studio/index.html)** from the Google Developers site, using this [link](https://developer.android.com/studio/index.html) : "https://developer.android.com/studio/index.html" .
+1. Download **[Android Studio](https://developer.android.com/studio/index.html)** from the Google Developers site or using this [link](https://developer.android.com/studio/index.html).
 2. Install the file to your pc.
 3. Download the required **SDK(Standard Development Kit) Tools** .
 4. **[Clone the repository](https://github.com/DipanshKhandelwal/Animations.git)** from : "https://github.com/DipanshKhandelwal/Animations.git" .
