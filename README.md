@@ -17,7 +17,7 @@ Types of animations in this project :
 ## Screenshots
 <img src="screenshot/Screenshot_1.png" width="300">
 
-## How to run the project
+## How to launch the project
 1. Download Android Studio from the Google Developers site, using the link : "https://developer.android.com/studio/index.html" .
 2. Install the file to your pc.
 3. Download the required SDK(Standard Development Kit) Tools .
