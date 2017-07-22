@@ -4,4 +4,12 @@
 * Using java
 * Using XML
 
+## Animations in this project
 #### This project contains some basic animations in Android using XML code.
+Types of animations in this project :
+* Blink Effect
+* Clockwise Rotation
+* Fade Effect
+* Straight Movement
+* Zoom Effect
+* Slide Effect
