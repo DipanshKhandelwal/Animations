@@ -23,9 +23,9 @@ Types of animations in this project :
 3. Download the required SDK(Standard Development Kit) Tools .
 4. Clone the repository from : "https://github.com/DipanshKhandelwal/Animations.git" .
 5. Open the project in Android Studio.
-6. For launching the project you could :
+6. For launching the project you can either :
 	1. **Install emulator**
-		* For this you must have HAMX installed in Android Studio IDE.
+		* For this you must have HAMX (Hardware Accelerated Execution Manager) installed in Android Studio IDE.
 		* You can download it at the time of installation of the Android Studio or install it afterwards in the SDK manager.
 		* Use your AVD manager for launching the app.
 	2. **Use your Android Phone**
